@@ -5,6 +5,6 @@
 - import pandas as pd 
 - Covid_2019 = pd.read_csv('COVID-19 Cases(21-11-2021).csv')
 - #csv data cn be present
-- # chake the data type of csv files
+- # check the data type of csv files
 - 
 - 
